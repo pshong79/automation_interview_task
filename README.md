@@ -12,7 +12,7 @@ To set up this project successfully, the following tools and frameworks must be 
 ## Setup
 To get started, clone the repository:
 ```
-$ git clone https://emergentcode.visualstudio.com/QA%20Automation%20Tools/_git/QA.Automation.Playwright.InterviewTasks
+$ git clone https://github.com/pshong79/automation_interview_task.git
 ```
 
 After the project is cloned, `cd` into the project's directory and install Playwright:
