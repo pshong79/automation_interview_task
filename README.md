@@ -1,5 +1,7 @@
 # Description
-This repository is to use to gauge the automation skillset of QA Engineering candidates using [Playwright](https://playwright.dev/).
+This project was created when I learned that my company wanted to interview QA Engineer candidates for automation. Because the company did not have a formal interview process specific for QA Automation candidates, I wanted to create something so that candidates can showcase some of the general, basic abilities expected of someone participating in the automation effort. 
+
+This repository uses [Playwright](https://playwright.dev/) because Playwright is the framework of choice at the company.
 
 # Getting started
 ## Prerequsites:
